@@ -10,4 +10,4 @@ Here is a picture of my favourite teacher
 
 My favourite quote is 
 
-> To be or not to be
+> Books are the ladder of human progress
