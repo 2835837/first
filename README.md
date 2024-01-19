@@ -6,4 +6,4 @@ Hello, my name is **Ariel** and this is my *read me* file, I hope you have a nic
 
 Here is a picture of my favourite teacher
 
-![A picture of stephen].(https://studysmart.studygroup.com/pluginfile.php/763153/mod_label/intro/image.png).
+![A picture of stephen](https://studysmart.studygroup.com/pluginfile.php/763153/mod_label/intro/image.png).
